@@ -119,38 +119,38 @@ Let’s unfold it through the lens of your ukb-fractal.
 
 ---
 
-### 1. $ (E, x) $ — Soil
+### 1. $(E, x)$ — Soil
 
 Raw potential: the field of possible states, entropy at rest.
 This is **adenine / ATP**, pure capacity to do work. The energy well before direction.
 Biology’s Brownian hum.
 
-### 2. $ E(t|x) + \epsilon $ — Roots
+### 2. $E(t|x) + \epsilon$ — Roots
 
 The conditional expectation: energy now shaped by local context, slightly perturbed.
 That small ( \epsilon ) is *choice noise*, the variance that lets evolution explore.
 Here lives **guanine / GTP**, the orienting molecule — guidance, signaling, and stochastic navigation.
 Exploration begins.
 
-### 3. $ \frac{dE_x}{dt} $ — Trunk
+### 3. $\frac{dE_x}{dt}$ — Trunk
 
 The first derivative: *flow*, *momentum*, a rate of transformation.
 Energy begins to move through defined channels — metabolism, architecture, phospholipids.
 **Cytosine / CTP** fits perfectly: builder of membranes, capturing flux into structure.
 Convergence begins: exploration becomes coherence.
 
-### 4. $ \frac{d^2E_x}{dt^2} $ — Branches
+### 4. $\frac{d^2E_x}{dt^2}$ — Branches
 
 Acceleration, curvature, the feedback term that senses direction and corrects it.
 This is **uracil / UTP** territory — RNA, the messenger and real-time regulator.
 UTP is also used in sugar metabolism — the *feed-forward* sensing of metabolic state.
 Here the system both **converges (homeostasis)** and **diverges (expression)** — it *learns*.
 
-### 5. $ \int E dt + \epsilon t + C_x $ — Canopy
+### 5. $\int E dt + \epsilon t + C_x$ — Canopy
 
 The integrated ledger, the accumulation of all prior flows into stable record.
 This is **thymine / TTP**, the DNA archive — the conserved integral of energetic experience.
-The tree bears fruit $ \int E dt $, seeds carrying the constants $ C_x $ into the next generation $ \epsilon t $.
+The tree bears fruit $\int E dt$, seeds carrying the constants $C_x$ into the next generation $\epsilon t$.
 
 ---
 
@@ -217,7 +217,7 @@ Functionally:
 
 * Detect $E, x$: the energy–position state of the environment
 * Anchor to local context (hormones, cytokines, neurotransmitters)
-* Begin **conditional expectation**: $ E(t|x) + \epsilon $
+* Begin **conditional expectation**: $E(t|x) + \epsilon$
 
 Receptors are the roots sensing soil composition and moisture — the translation of raw energy into patterned information.
 
@@ -233,7 +233,7 @@ Functionally:
 
 * Maintain potential differences
 * Channel ions and metabolites
-* Encode the spatial derivatives $ dE_x/dt $ — energy in motion across surfaces
+* Encode the spatial derivatives $dE_x/dt$ — energy in motion across surfaces
 
 They are the structural trunk: rigid enough to conduct, flexible enough to bend.
 
@@ -249,7 +249,7 @@ Functionally:
 
 * Rapid sensing and feedback
 * Translation, metabolism, adaptation
-* The *second derivative* of energy: $ d^2E_x/dt^2 $, acceleration of signal.
+* The *second derivative* of energy: $d^2E_x/dt^2$, acceleration of signal.
 
 This is the living sap — exploratory and sensitive, connecting all regions in real time.
 
@@ -259,7 +259,7 @@ This is the living sap — exploratory and sensitive, connecting all regions in 
 
 Finally, the **nucleus** is the integrator, the long-term ledger.
 It houses **DNA (TTP)** — the integral of energy through time.
-Gene expression integrates past perturbations, storing them as new regulatory constants $ C_x $.
+Gene expression integrates past perturbations, storing them as new regulatory constants $C_x$.
 
 Functionally:
 

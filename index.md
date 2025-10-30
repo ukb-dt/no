@@ -217,7 +217,7 @@ Functionally:
 
 * Detect $E, x$: the energy–position state of the environment
 * Anchor to local context (hormones, cytokines, neurotransmitters)
-* Begin **conditional expectation**: $E(t|x) + \epsilon$
+* Begin **conditional expectation**: $E(t \mid x) + \epsilon$
 
 Receptors are the roots sensing soil composition and moisture — the translation of raw energy into patterned information.
 
